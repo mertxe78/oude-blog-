@@ -1,4 +1,6 @@
 README.rst
+pyproject.toml
+setup.py
 niekdewin.nl.egg-info/PKG-INFO
 niekdewin.nl.egg-info/SOURCES.txt
 niekdewin.nl.egg-info/dependency_links.txt
