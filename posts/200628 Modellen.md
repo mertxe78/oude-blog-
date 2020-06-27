@@ -1,6 +1,6 @@
 # Kernconcepten van data science: modellen
 
-Een kernconcept binnen data science en analytics zijn modellen. Of je nou iets leest over data analytics, data science of artifical intelligence; het model speelt veelal een centrale rol. Vaak wordt het concept van een model als een black box aangeduidt. Om beter te kunnen doorgronden welk onderliggende mechanisme van toepassing zijn is helpt het enorm om de definitie, technieken en doeleinden scherp te hebben.
+Een kernconcept binnen data science en analytics zijn modellen. Of je nou iets leest over data analytics, data science of artifical intelligence; het model speelt een centrale rol. Zonder goed begrip van wat nu precies bedoelt wordt met een model, voelt de toepassing als een *black box*. Om beter te kunnen doorgronden welk onderliggende mechanisme van toepassing is helpt het enorm om de definitie, technieken en doeleinden omtrent modelleren scherp te hebben.
 
 ## Definitie
 
